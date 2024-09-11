@@ -1,5 +1,10 @@
 # Astro Starter Kit: Basics
 
+mi portfolio
+
+![image](https://github.com/user-attachments/assets/12c8b5eb-e30d-4431-a012-5d1719fe0309)
+
+
 ```sh
 npm create astro@latest -- --template basics
 ```
